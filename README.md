@@ -6,5 +6,5 @@ When given numerical inputs, n and p, the program will create a random diagram t
 The graphical interface also returns the expected number of triangles that will form, the actual number of triangles formed, and the difference between the two values.
 
 ## Screenshots
-![Screenshot](triangle-diag.png)
 ![Screenshot](triangle-ui.png)
+![Screenshot](triangle-diag.png)
