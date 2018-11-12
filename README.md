@@ -4,3 +4,7 @@ When given numerical inputs, n and p, the program will create a random diagram t
 2) Each pair of nodes has p percent of forming an edge between them
 
 The graphical interface also returns the expected number of triangles that will form, the actual number of triangles formed, and the difference between the two values.
+
+## Screenshots
+![Screenshot](triangle-diag.png)
+![Screenshot](triangle-ui.png)
